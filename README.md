@@ -1,8 +1,10 @@
 # Hi 👋 I'm Irfan
 
+Mobile engineer with 4 years of experience building apps with Flutter. I'm a tech enthusiast who enjoys exploring new tools, and lately I've been spending a lot of time with Swift and native iOS development.
+
 ### Find me on:
 <p align="left">
-    <a href="https://www.instagram.com/irfannfauzan" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/irfannfauzan" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/irfan-fauzan-rachman-a10745170/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a>
 </p>
 
